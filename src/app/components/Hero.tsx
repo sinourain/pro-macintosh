@@ -17,7 +17,7 @@ export default function Hero() {
       </a>
       <div className="mt-12">
         <Image
-          src="/promac-hero.svg"
+          src="/promac-hero.jpg"
           alt="MacBook Pro"
           width={700}
           height={350}
