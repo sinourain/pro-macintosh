@@ -67,21 +67,14 @@ export default function Header() {
             Inicio
           </a>
           <a
-            href="#"
+            href="#productos"
             className="hover:text-yellow-400 transition"
             onClick={() => setOpen(false)}
           >
             Productos
           </a>
           <a
-            href="#"
-            className="hover:text-yellow-400 transition"
-            onClick={() => setOpen(false)}
-          >
-            Soporte
-          </a>
-          <a
-            href="#"
+            href="#contacto"
             className="hover:text-yellow-400 transition"
             onClick={() => setOpen(false)}
           >
