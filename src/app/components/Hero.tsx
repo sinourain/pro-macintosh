@@ -4,10 +4,10 @@ export default function Hero() {
   return (
     <section className="relative flex flex-col items-center justify-center text-center py-20 bg-gradient-to-b from-black to-gray-900">
       <h1 className="text-5xl md:text-6xl font-extrabold mb-6 tracking-tight">
-        Potencia y diseño <span className="text-yellow-400">Apple</span>
+        Potencia <span className="text-yellow-400">Apple</span> al Mejor Precio
       </h1>
       <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl">
-        Descubre la nueva generación de computadores Apple. Rendimiento profesional, diseño icónico y la mejor tecnología para llevar tu creatividad al siguiente nivel.
+        Descubre nuestra selección de MacBooks Air y Pro con chip M1 — nuevos y “como nuevos”. Rendimiento, eficiencia y diseño premium al alcance de todos.
       </p>
       <a
         href="#productos"
@@ -17,7 +17,7 @@ export default function Hero() {
       </a>
       <div className="mt-12">
         <Image
-          src="/macbook-hero.png"
+          src="/promac-hero.svg"
           alt="MacBook Pro"
           width={700}
           height={350}

@@ -21,13 +21,10 @@ export default function Header() {
         <a href="#" className="hover:text-yellow-400 transition">
           Inicio
         </a>
-        <a href="#" className="hover:text-yellow-400 transition">
+        <a href="#productos" className="hover:text-yellow-400 transition">
           Productos
         </a>
-        <a href="#" className="hover:text-yellow-400 transition">
-          Soporte
-        </a>
-        <a href="#" className="hover:text-yellow-400 transition">
+        <a href="#contacto" className="hover:text-yellow-400 transition">
           Contacto
         </a>
       </nav>
